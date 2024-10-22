@@ -16,7 +16,6 @@
     "scripts":{
         "test": "nodeunit test/"
     },
-    "main" : "./lib/smtp",
     "licenses" : [
         {
             "type": "MIT",
